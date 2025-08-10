@@ -1,8 +1,8 @@
-# MindGrid AI
+# HireAIStaff AI
 
 🧠 **Hire an AI employee in 60 seconds**
 
-MindGrid AI is a revolutionary platform that allows businesses to hire AI employees for various roles including Marketing, Legal, Financial, Support, R&D, and Custom positions.
+HireAIStaff AI is a revolutionary platform that allows businesses to hire AI employees for various roles including Marketing, Legal, Financial, Support, R&D, and Custom positions.
 
 ## 🚀 Features
 

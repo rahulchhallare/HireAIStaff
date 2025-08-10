@@ -1,11 +1,12 @@
 import Head from 'next/head'
 
+
 export default function Home() {
   return (
     <>
       <Head>
-        <title>MindGrid AI — Hire an AI employee in 60 seconds</title>
-        <meta name="description" content="MindGrid AI lets you onboard specialized AI knowledge workers instantly — no recruitment, no training, just results." />
+        <title>HireAIStaff AI — Hire an AI employee in 60 seconds</title>
+        <meta name="description" content="HireAIStaff AI lets you onboard specialized AI knowledge workers instantly — no recruitment, no training, just results." />
         <meta name="viewport" content="width=device-width,initial-scale=1" />
         <link rel="icon" href="/favicon.ico" />
         <script src="https://cdn.tailwindcss.com"></script>
@@ -18,7 +19,7 @@ export default function Home() {
           <div className="flex items-center gap-3">
             <div className="w-10 h-10 rounded-lg bg-gradient-to-br from-indigo-600 to-purple-500 flex items-center justify-center text-white font-bold">MG</div>
             <div>
-              <div className="text-xl font-semibold">MindGrid AI</div>
+              <div className="text-xl font-semibold">HireAIStaff AI</div>
               <div className="text-xs text-gray-500">AI Knowledge Worker-as-a-Service</div>
             </div>
           </div>
@@ -37,7 +38,7 @@ export default function Home() {
         <section className="max-w-6xl mx-auto px-6 py-16 grid md:grid-cols-2 gap-10 items-center">
           <div>
             <h1 className="text-4xl md:text-5xl font-extrabold leading-tight">Hire an AI employee in <span className="text-indigo-600">60 seconds</span></h1>
-            <p className="mt-4 text-gray-600 text-lg">MindGrid AI lets you onboard specialized AI knowledge workers instantly — no recruitment, no training, just results.</p>
+            <p className="mt-4 text-gray-600 text-lg">HireAIStaff AI lets you onboard specialized AI knowledge workers instantly — no recruitment, no training, just results.</p>
             <div className="mt-6 flex gap-3">
               <a href="#contact" className="px-5 py-3 rounded-lg bg-indigo-600 text-white font-medium">Start Free Trial</a>
               <a href="#roles" className="px-5 py-3 rounded-lg border font-medium text-gray-700">View AI Roles</a>
@@ -207,7 +208,7 @@ export default function Home() {
 
         {/* Footer */}
         <footer className="py-8 text-center text-sm text-gray-500">
-          © {new Date().getFullYear()} MindGrid AI — AI Knowledge Worker-as-a-Service.
+          © {new Date().getFullYear()} HireAIStaff AI — AI Knowledge Worker-as-a-Service.
         </footer>
       </div>
     </>
